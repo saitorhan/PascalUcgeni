@@ -1,2 +1,3 @@
-# PascalUcgeni
-Binom açılımını veren pascal üçgeninin C# ile yapıla vesiyonu
+# Pascal Üçgeni
+
+Binom açılımını veren pascal üçgeninin C# ile yapıla vesiyonudur
